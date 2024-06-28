@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/MANASH PRATIM BHOWMICK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manash pratim bhowmikck" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manash-pratim-bhowmick-025611185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manash pratim bhowmikck" height="30" width="40" /></a>
 <a href="https://fb.com/Manash Pratim Bhowmick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manash pratim bhowmick" height="30" width="40" /></a>
 <a href="https://instagram.com/manashpratimbhowmick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manashpratimbhowmick" height="30" width="40" /></a>
 </p>
